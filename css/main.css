@@ -9,8 +9,9 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
   line-height: 1.5;
   font-weight: 300;
   background-color: #1e1f22;
@@ -19,9 +20,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a         { color: #ecdbb2; text-decoration: none; font-weight: 600; }
+a:hover   { color: #ecdbb2; text-decoration: underline; }
+a:visited { color: #ecdbb2; }
 
 /* Utility */
 

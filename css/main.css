@@ -184,6 +184,10 @@ a:visited { color: #ecdbb2; }
 
 .post-content { margin: 0 0 30px; }
 
+.post-content p {
+  font-family: 'Merriweather','Georgia',serif;
+}
+
 .post-content > * { margin: 20px 0; }
 
 

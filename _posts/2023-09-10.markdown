@@ -5,6 +5,7 @@ title:  "A Test post"
 excerpt: ""
 date:   2023-07-12
 mathjax: false
+published: true
 ---
 
 <style>
